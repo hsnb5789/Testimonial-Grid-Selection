@@ -61,7 +61,7 @@ main {
 .top_section .left_component.daniel {
     width: 340px;
     /* max-width: 550px; */
-    background-image: url('../public/images/bg-pattern-quotation.svg');
+    background-image: url('../images/bg-pattern-quotation.svg');
     background-size: 40%;
     background-position-x: 180px;
     background-repeat: no-repeat;
